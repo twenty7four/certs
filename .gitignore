@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+venv/
+#vars1.py
+repos\th_certs\var.py
